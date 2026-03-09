@@ -4,7 +4,7 @@
 A simple TODO application built with React and Firebase Realtime Database for Metropolia React.js Fundamentals-course.
 
 ## Live Demo
-https://github.com/kattilassa/todolistreact
+https://kattilassa.github.io/todolistreact/
 
 ## Features
 - Add TODO items
