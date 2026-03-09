@@ -9,6 +9,7 @@ https://kattilassa.github.io/todolistreact/
 ## Features
 - Add TODO items
 - Delete TODO items
+- Clear all TODO items
 - TODO items are stored in Realtime Database
 - Data is fetched from Firebase API
 - Data is displayed with AG Grid
